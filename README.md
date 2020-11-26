@@ -28,5 +28,5 @@
 
 ## Github istatistik
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RecebEnes&theme=dark&show_icons=true" alt="Preless" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NullMaan&theme=dark&show_icons=true" alt="Preless" /></p>
 
