@@ -7,6 +7,6 @@ Ben kimim?
 <p>Ben kendimi geliştirmeye çalışan bir kişi olarak olarak görüyorum</p>
 <h3>Proje(leri)m</h3>
 <p>Herkesin olduğu gibi benimde proje(leri)m var</p>
-<p href="https://www.npmjs.com/package/efdb">
+<a ef="https://www.npmjs.com/package/efdb">
 <img alt="efDB" src="https://img.shields.io/badge/npm-efDB-red"/>
-	</p>
+	</a
