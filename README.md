@@ -2,6 +2,6 @@
 <hr> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulIMan&theme=dark&show_icons=true" />
 <h3 align="left">
-Ben kimim?
+İnternet Sitem
 </h3>
-<p>Ben kendimi geliştirmeye çalışan bir kişi olarak olarak görüyorum</p>
+<p>Bakımda</p>
