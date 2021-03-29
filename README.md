@@ -5,3 +5,7 @@
 İnternet Sitem
 </h3>
 <p>Bakımda</p>
+<h3 align="left">
+Linkler
+</h3>
+<a href="https://youtube.com/NullMan">Youtube</a>
